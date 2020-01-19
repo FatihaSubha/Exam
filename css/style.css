@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(../img/image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.conatainer{
+	width: 1140px;
+	margin: 0 auto;
+}
+.exam{
+width: 100%;
+
+float: left;
+
+padding: 30px 0px;
+}
+/*left part*/
+.discription{
+
+width: 50%;
+margin-top: 50px;
+float: left;
+}
+.discription h1{
+	
+font-size: 35px;
+	
+color: #484545;
+}
+.discription span{
+	
+color: #6da26d;
+}
+.discription p{
+	
+margin: 20px 0px;
+}
+.discription ul{
+	
+}
+.discription ul li{
+	
+}
+.discription ul li i{
+	
+}
+.btn{
+
+margin: 20px 0px;
+
+padding: 15px;
+
+background-color: cadetblue;
+
+border-radius: 25px;
+
+border: 1px solid #fff;
+}
+/*right part*/
+.reg-form-part{
+
+width: 50%;
+
+float: left;
+margin-top: 40px;
+}
+.reg-form{
+
+width: 70%;
+
+margin-left: 80px;
+
+/* padding: 36px 0px; */
+
+float: left;
+
+background-color: beige;
+
+padding: 50px 0px;
+
+text-align: center;
+}
+.reg-form h2{
+	
+font-size: 33px;
+	
+margin-bottom: 10px;
+	
+padding: 13px 0px;
+}
+.reg-form p{
+	
+font-size: 15px;
+	
+margin: 10px 0px;
+}
+form{
+	
+}
+input{
+
+width: 80%;
+
+padding: 9px;
+
+margin: 5px 0px;
+}
+.btn2{
+	width: 86%;
+    color: #fff;
+    background-color: #b59a7a;
+    border: 1px solid #161616;
+    box-shadow: 4px 4px #3e3933;
+}
